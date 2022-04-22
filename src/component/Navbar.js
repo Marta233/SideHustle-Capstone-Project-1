@@ -7,7 +7,7 @@ function Navbar() {
 
     return (
         <div className='header'>
-            <div className="logo">AYD MEDIA</div>
+            <div className="logo">Restaurant SHG72</div>
         <input type="checkbox" name="chk" id="chk" />
         <label htmlFor='chk' className="show"><i className="fa fa-bars"></i> </label>
            <div className="menu">
